@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<recommend id="1" rate="99" user_id="1" movie_id="1" />
+	<user id="1" username="小黄" password="123456" age="20" sex="男" location="浙江宁波" mail="Bestsonic@sina.com" tags="喜剧片/动作片" portrait="http://www.baidu.com" />
+	<movie id="1" url="http://www.baidu.com" date="2015-08-23" country="中国" directors="空知英秋" type="喜剧" rate="10" name="银魂" actors="坂田银时/志村新八/神乐" language="日语" intro="银魂" length="24分钟" picture="http://www.baidu.com" />
+</dataset>
